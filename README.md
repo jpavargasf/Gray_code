@@ -5,7 +5,7 @@
 <ul>
     <li>
     This code uses a binary tree to find a n-bit gray code while also 
-    building m-bit gray code, when m<n. Or you can see as building a
+    building m-bit gray code, when m is smaller than n. Or you can see as building a
                                         binary tree, where at depth n there is a n-bit gray code if read
                                                    from left to right.
                                         </li>
