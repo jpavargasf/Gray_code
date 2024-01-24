@@ -11,7 +11,7 @@
                                         </li>
 </ul>
 
-<h3>How this works?</h3>
+<h3>How does this works?</h3>
 <ol>
            <li>Depth n will always have n bits</li>
            <li>Difference from depth n and n+1 is the less significant bit, whereas
