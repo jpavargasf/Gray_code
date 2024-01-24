@@ -1,4 +1,4 @@
-//Autor: Jo„o Paulo Vargas da Fonseca
+//Autor: Jo√£o Paulo Vargas da Fonseca
 //Date: 25/03/2022
 //
 //Description:  This code uses a binary tree to find a n-bit gray code while also
@@ -6,7 +6,7 @@
 //              binary tree, where at depth n there is a n-bit gray code if read
 //              from left to right.
 //
-//How this works?
+//How does this work?
 //              1.Depth n will always have n bits
 //              2.Difference from depth n and n+1 is the less significant bit, whereas
 //              n+1 at the left will receive bit 0 and the right 1.
